@@ -16,7 +16,7 @@ This project uses deep learning (CNN) to classify chest X-ray images into NORMAL
 - Used Matplotlib/Seaborn for visual EDA & metrics plotting
 
 ## 📹 Demo Video
-[Link to video](#) ← Replace with your YouTube / .mp4
+to add
 
 ## 📓 Jupyter Notebook
 Available in this repo as `pneumonia_xray_final.ipynb`
